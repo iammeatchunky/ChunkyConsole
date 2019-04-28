@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+// comment from bug 1
 namespace Tester.commands
 {
     class MenuExample:ChunkyConsole.Commands.MenuCommand
